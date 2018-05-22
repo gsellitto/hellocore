@@ -1,0 +1,11 @@
+C:\prj\Tests\hellocore\bin\Debug\netcoreapp2.0\hellocore.deps.json
+C:\prj\Tests\hellocore\bin\Debug\netcoreapp2.0\hellocore.runtimeconfig.json
+C:\prj\Tests\hellocore\bin\Debug\netcoreapp2.0\hellocore.runtimeconfig.dev.json
+C:\prj\Tests\hellocore\bin\Debug\netcoreapp2.0\hellocore.dll
+C:\prj\Tests\hellocore\bin\Debug\netcoreapp2.0\hellocore.pdb
+C:\prj\Tests\hellocore\obj\Debug\netcoreapp2.0\hellocore.csproj.CoreCompileInputs.cache
+C:\prj\Tests\hellocore\obj\Debug\netcoreapp2.0\hellocore.AssemblyInfoInputs.cache
+C:\prj\Tests\hellocore\obj\Debug\netcoreapp2.0\hellocore.AssemblyInfo.cs
+C:\prj\Tests\hellocore\obj\Debug\netcoreapp2.0\hellocore.dll
+C:\prj\Tests\hellocore\obj\Debug\netcoreapp2.0\hellocore.pdb
+C:\prj\Tests\hellocore\obj\Debug\netcoreapp2.0\hellocore.csprojAssemblyReference.cache
